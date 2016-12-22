@@ -48,3 +48,4 @@ Temporary Items
 gitTest/.classpath
 gitTest/.project
 gitTest/.settings/org.eclipse.jdt.core.prefs
+*.class
